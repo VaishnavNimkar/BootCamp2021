@@ -1,0 +1,6 @@
+E:\Repo\BootCamp2021\PubSub1\PubSub1\bin\Debug\PubSub1.exe.config
+E:\Repo\BootCamp2021\PubSub1\PubSub1\bin\Debug\PubSub1.exe
+E:\Repo\BootCamp2021\PubSub1\PubSub1\bin\Debug\PubSub1.pdb
+E:\Repo\BootCamp2021\PubSub1\PubSub1\obj\Debug\PubSub1.csproj.CoreCompileInputs.cache
+E:\Repo\BootCamp2021\PubSub1\PubSub1\obj\Debug\PubSub1.exe
+E:\Repo\BootCamp2021\PubSub1\PubSub1\obj\Debug\PubSub1.pdb
