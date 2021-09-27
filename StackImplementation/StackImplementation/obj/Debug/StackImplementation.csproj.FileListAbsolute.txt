@@ -1,0 +1,7 @@
+E:\Repo\BootCamp2021\StackImplementation\StackImplementation\bin\Debug\StackImplementation.exe.config
+E:\Repo\BootCamp2021\StackImplementation\StackImplementation\bin\Debug\StackImplementation.exe
+E:\Repo\BootCamp2021\StackImplementation\StackImplementation\bin\Debug\StackImplementation.pdb
+E:\Repo\BootCamp2021\StackImplementation\StackImplementation\obj\Debug\StackImplementation.csproj.AssemblyReference.cache
+E:\Repo\BootCamp2021\StackImplementation\StackImplementation\obj\Debug\StackImplementation.csproj.CoreCompileInputs.cache
+E:\Repo\BootCamp2021\StackImplementation\StackImplementation\obj\Debug\StackImplementation.exe
+E:\Repo\BootCamp2021\StackImplementation\StackImplementation\obj\Debug\StackImplementation.pdb
