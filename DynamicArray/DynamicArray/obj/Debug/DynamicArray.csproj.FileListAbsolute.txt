@@ -1,0 +1,6 @@
+E:\Repo\BootCamp2021\DynamicArray\DynamicArray\bin\Debug\DynamicArray.exe.config
+E:\Repo\BootCamp2021\DynamicArray\DynamicArray\bin\Debug\DynamicArray.exe
+E:\Repo\BootCamp2021\DynamicArray\DynamicArray\bin\Debug\DynamicArray.pdb
+E:\Repo\BootCamp2021\DynamicArray\DynamicArray\obj\Debug\DynamicArray.csproj.CoreCompileInputs.cache
+E:\Repo\BootCamp2021\DynamicArray\DynamicArray\obj\Debug\DynamicArray.exe
+E:\Repo\BootCamp2021\DynamicArray\DynamicArray\obj\Debug\DynamicArray.pdb
