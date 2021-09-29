@@ -1,0 +1,7 @@
+E:\Repo\BootCamp2021\EventDriven\EventDriven\obj\Debug\EventDriven.csproj.AssemblyReference.cache
+E:\Repo\BootCamp2021\EventDriven\EventDriven\obj\Debug\EventDriven.csproj.CoreCompileInputs.cache
+E:\Repo\BootCamp2021\EventDriven\EventDriven\bin\Debug\EventDriven.exe.config
+E:\Repo\BootCamp2021\EventDriven\EventDriven\bin\Debug\EventDriven.exe
+E:\Repo\BootCamp2021\EventDriven\EventDriven\bin\Debug\EventDriven.pdb
+E:\Repo\BootCamp2021\EventDriven\EventDriven\obj\Debug\EventDriven.exe
+E:\Repo\BootCamp2021\EventDriven\EventDriven\obj\Debug\EventDriven.pdb
