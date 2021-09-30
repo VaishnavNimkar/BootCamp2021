@@ -1,0 +1,6 @@
+E:\Repo\BootCamp2021\SmartDoorSystem\SmartDoorSystem\bin\Debug\SmartDoorSystem.exe.config
+E:\Repo\BootCamp2021\SmartDoorSystem\SmartDoorSystem\bin\Debug\SmartDoorSystem.exe
+E:\Repo\BootCamp2021\SmartDoorSystem\SmartDoorSystem\bin\Debug\SmartDoorSystem.pdb
+E:\Repo\BootCamp2021\SmartDoorSystem\SmartDoorSystem\obj\Debug\SmartDoorSystem.csproj.CoreCompileInputs.cache
+E:\Repo\BootCamp2021\SmartDoorSystem\SmartDoorSystem\obj\Debug\SmartDoorSystem.exe
+E:\Repo\BootCamp2021\SmartDoorSystem\SmartDoorSystem\obj\Debug\SmartDoorSystem.pdb
