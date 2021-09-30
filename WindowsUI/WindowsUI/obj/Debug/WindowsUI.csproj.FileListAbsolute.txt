@@ -1,0 +1,6 @@
+E:\Repo\BootCamp2021\WindowsUI\WindowsUI\bin\Debug\WindowsUI.exe.config
+E:\Repo\BootCamp2021\WindowsUI\WindowsUI\bin\Debug\WindowsUI.exe
+E:\Repo\BootCamp2021\WindowsUI\WindowsUI\bin\Debug\WindowsUI.pdb
+E:\Repo\BootCamp2021\WindowsUI\WindowsUI\obj\Debug\WindowsUI.csproj.CoreCompileInputs.cache
+E:\Repo\BootCamp2021\WindowsUI\WindowsUI\obj\Debug\WindowsUI.exe
+E:\Repo\BootCamp2021\WindowsUI\WindowsUI\obj\Debug\WindowsUI.pdb
