@@ -1,0 +1,6 @@
+E:\Repo\BootCamp2021\NetworkStatusLogger\NetworkStatusLogger\bin\Debug\NetworkStatusLogger.exe.config
+E:\Repo\BootCamp2021\NetworkStatusLogger\NetworkStatusLogger\bin\Debug\NetworkStatusLogger.exe
+E:\Repo\BootCamp2021\NetworkStatusLogger\NetworkStatusLogger\bin\Debug\NetworkStatusLogger.pdb
+E:\Repo\BootCamp2021\NetworkStatusLogger\NetworkStatusLogger\obj\Debug\NetworkStatusLogger.csproj.CoreCompileInputs.cache
+E:\Repo\BootCamp2021\NetworkStatusLogger\NetworkStatusLogger\obj\Debug\NetworkStatusLogger.exe
+E:\Repo\BootCamp2021\NetworkStatusLogger\NetworkStatusLogger\obj\Debug\NetworkStatusLogger.pdb
