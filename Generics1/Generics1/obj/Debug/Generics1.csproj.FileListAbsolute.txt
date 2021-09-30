@@ -1,0 +1,6 @@
+E:\Repo\BootCamp2021\Generics1\Generics1\bin\Debug\Generics1.exe.config
+E:\Repo\BootCamp2021\Generics1\Generics1\bin\Debug\Generics1.exe
+E:\Repo\BootCamp2021\Generics1\Generics1\bin\Debug\Generics1.pdb
+E:\Repo\BootCamp2021\Generics1\Generics1\obj\Debug\Generics1.csproj.CoreCompileInputs.cache
+E:\Repo\BootCamp2021\Generics1\Generics1\obj\Debug\Generics1.exe
+E:\Repo\BootCamp2021\Generics1\Generics1\obj\Debug\Generics1.pdb
